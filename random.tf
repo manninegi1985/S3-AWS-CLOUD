@@ -1,5 +1,5 @@
 resource "random_id" "this" {
-  byte_length = 30
+ byte_length = 15
 }
 
 output "random_id" {
